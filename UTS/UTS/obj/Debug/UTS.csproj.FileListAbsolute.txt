@@ -1,0 +1,7 @@
+D:\Learning\Kuliah Materi\Pemrograman\code\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+D:\Learning\Kuliah Materi\Pemrograman\code\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+D:\Learning\Kuliah Materi\Pemrograman\code\UTS\UTS\bin\Debug\UTS.exe.config
+D:\Learning\Kuliah Materi\Pemrograman\code\UTS\UTS\bin\Debug\UTS.exe
+D:\Learning\Kuliah Materi\Pemrograman\code\UTS\UTS\bin\Debug\UTS.pdb
+D:\Learning\Kuliah Materi\Pemrograman\code\UTS\UTS\obj\Debug\UTS.exe
+D:\Learning\Kuliah Materi\Pemrograman\code\UTS\UTS\obj\Debug\UTS.pdb
